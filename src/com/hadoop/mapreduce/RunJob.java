@@ -14,7 +14,7 @@ public class RunJob {
 
 	public static void main(String[] args) {
 		System.setProperty("hadoop.home.dir", "D:\\Hadoop\\hadoop-2.7.3");
-		//执行的命令[root@namenode tmp]# hadoop jar wc.jar com.mr.wc.RunJob
+		//执行的命令[root@namenode tmp]# hadoop jar wc.jar com.mr.wc.MainRunJob
 		Configuration config =new Configuration();
 
 		try {
