@@ -74,5 +74,6 @@
         <jarDirectory url="file://D:/Hadoop/hadoop-2.7.3/share/hadoop/yarn" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="commons-pool2-2.4.2" level="project" />
   </component>
 </module>
